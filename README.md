@@ -1,9 +1,5 @@
 # MySQL-using-Docker
-Here’s an improved and well-structured version of your `README.md` file for **"MySQL Using Docker"**:  
-
----
-
-```md
+ 
 # MySQL Using Docker 🐳
 
 ## Overview  
